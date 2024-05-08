@@ -15,7 +15,7 @@ body {
 }
 
 h2 {
-    color: rebeccapurple;
+    color: rgb(188, 130, 247);
 }
 
 
@@ -24,12 +24,6 @@ table {
     display: table;
     border-collapse: separate;
     box-sizing: border-box;
-    text-indent: initial;
-    unicode-bidi: isolate;
-    line-height: normal;
-    font-weight: normal;
-    font-size: medium;
-    font-style: normal;
     text-align: start;
     border-spacing: 2px;
     border-color: gray;
@@ -64,5 +58,6 @@ td {
 }
 
 span {
+    font-family: monospace;
     background-color: bisque;
 }
